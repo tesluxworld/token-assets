@@ -1,8 +1,16 @@
-metaboss show data --mint 22XnzEEKK1k6xDqqakqooEtQG9cJ2qRnThLrbxyJdhmR
-
 {
   "name": "Unknown Token",
   "symbol": "???",
-  "description": "This token metadata has been deprecated.",
-  ...
+  "description": "Unknown Token",
+  "image": "https://raw.githubusercontent.com/tesluxworld/token-assets/main/next.logo.png",
+  "external_url": "https://www.abcdefg.com",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "88881BcRrczZHDCJTvPhFzmzF3GoSshcYnRWvL9ebUCR",
+        "share": 100
+      }
+    ]
+  }
 }
